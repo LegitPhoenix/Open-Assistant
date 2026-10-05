@@ -13,3 +13,4 @@ psutil==5.9.4
 # huggingface
 datasets
 transformers
+fsspec>=2026.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
