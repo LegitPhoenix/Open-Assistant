@@ -3,7 +3,7 @@ alembic
 asyncpg
 authlib
 beautifulsoup4 # web_retriever plugin
-cryptography==39.0.0
+cryptography==49.0.0
 fastapi-limiter
 fastapi[all]==0.88.0
 google-api-python-client
@@ -25,3 +25,5 @@ sse-starlette
 uuid7==0.1.0
 uvicorn[standard]
 websockets
+python-multipart>=0.0.22 # not directly required, pinned by Snyk to avoid a vulnerability
+ujson>=5.12.1 # not directly required, pinned by Snyk to avoid a vulnerability
