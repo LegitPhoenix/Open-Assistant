@@ -60,14 +60,14 @@ loguru==0.6.0
 MarkupSafe==2.1.2
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
-mistune==2.0.5
+mistune==3.3.0
 multidict==6.0.4
 multiprocess==0.70.14
 multitasking==0.0.11
 mypy-extensions==1.0.0
 nbclassic==0.5.2
 nbclient==0.7.2
-nbconvert==7.2.9
+nbconvert==7.17.2
 nbformat==5.7.0
 nest-asyncio==1.5.6
 notebook==6.5.2
